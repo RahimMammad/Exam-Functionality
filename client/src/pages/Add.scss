@@ -1,0 +1,43 @@
+table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+
+    table, td, tr {
+        border: 1px solid #000;
+        text-align: center;
+
+        img {
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+
+form {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+    div{
+        color: red;
+    }
+
+    input {
+        width: 100%;
+        border: 1px solid #000;
+        height: 30px;
+        padding-left: 20px;
+        margin-top: 5px;
+    }
+
+    button {
+        width: 120px;
+        height: 40px;
+        color: #fff;
+        background: blue !important;
+        margin-top: 20px;
+    }
+}
